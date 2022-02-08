@@ -24,7 +24,7 @@ Welcome!!!, I will proceed to give you a brief summary of my skills and knowledg
   5. BI tools (PowerBi, Tableau, Pentahoo)
   6. text editors
   
-![R-Studio](https://img.shields.io/badge/R-Studio-3DDC84?style=for-the-badge&logo=R-Studio&logoColor=white&labelColor=101010)</br>
+![R-Studio](https://img.shields.io/badge/R-3DDC84?style=for-the-badge&logo=R_Studio&logoColor=white&labelColor=101010)</br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
   
