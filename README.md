@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi there 👋, my name is Edgar Sahonero
+### I'm a Data Analist / Data Scientist freelancer / PMI-CAPM
 
-<!--
-**edgarsch/edgarsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am dedicating myself to data analysis, interpretation, graphs, reports, statistical models, classification models, clusters and forecasting.
 
-Here are some ideas to get you started:
+In a while I will specialize in Machine Learning Models, RandomForest, BigData and much more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome!!!, I will proceed to give you a brief summary of my skills and knowledge. 
+
+
+## Teamwork Skills:
+  1. clear communication
+  2. responsible professional with their obligations
+  3. critical thinking
+  4. good social skills
+  5. ease of integration into teamwork
+  6. great creativity
+
+## Tech Skills:
+  1. R/R-Studio
+  2. Python
+  3. SQL (Structured Query Language)
+  4. S.O. operating systems (open source - privative)
+  5. BI tools (PowerBi, Tableau, Pentahoo)
+  6. text editors
+  
+## Find me at:
+  # gmail
+  # linkedin
+  # facebook
+  # twitter
+  
