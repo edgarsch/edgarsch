@@ -9,13 +9,12 @@
 
 
 ## Teamwork Skills:
-  :man::sound::couple: clear communication
-  :iphone::hourglass_flowing_sand::mailbox:responsible professional with their obligations
-  :+1::crystal_ball::no_good: critical thinking
-  :ear::eyes::couple: good social skills
-  :two_men_holding_hands::couple::two_women_holding_hands: ease of integration into teamwork
-  6. great creativity
-
+  1. clear communication :man::sound::couple:
+  2. responsible professional with their obligations :iphone::hourglass_flowing_sand::mailbox:
+  3. critical thinking :+1::crystal_ball::no_good:
+  4. good social skills :ear::eyes::couple:
+  5. ease of integration into teamwork :two_men_holding_hands::couple::two_women_holding_hands:
+ 
 ## Tech Skills:
   1. R/R-Studio
   2. Python
