@@ -1,11 +1,11 @@
 # Hi there 👋, my name is Edgar Sahonero
 ### I'm a Data Analist / Data Scientist freelancer / PMI-CAPM
 
-I am dedicating myself to data analysis, interpretation, graphs, reports, statistical models, classification models, clusters and forecasting.
+:fire: I am dedicating myself to data analysis, interpretation, graphs, reports, statistical models, classification models, clusters and forecasting.
 
-In a while I will specialize in Machine Learning Models, RandomForest, BigData and much more.
+:muscle: In a while I will specialize in Machine Learning Models, RandomForest, BigData and much more.
 
-Welcome!!!, I will proceed to give you a brief summary of my skills and knowledge. 
+:grin: Welcome!!!, I will proceed to give you a brief summary of my skills and knowledge. 
 
 
 ## Teamwork Skills:
@@ -34,4 +34,8 @@ Welcome!!!, I will proceed to give you a brief summary of my skills and knowledg
   # linkedin
   # facebook
   # twitter
-  
+[![Web](https://img.shields.io/badge/Mi_Sitio_Web-devexperto.com-14a1f0?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://devexperto.com)
+[![YouTube](https://img.shields.io/badge/YouTube-DevExperto-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://devexperto.com/youtube)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_Leiva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://devexperto.com/linkedin)
+[![Instagram](https://img.shields.io/badge/Instagram-@devexperto-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://devexperto.com/instagram)
+[![Twitter](https://img.shields.io/badge/Twitter-@devexperto1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://devexperto.com/twitter)
