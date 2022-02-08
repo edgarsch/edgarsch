@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Edgar Sahonero
-### I'm a Data Analist / Data Scientist freelancer / PMI-CAPM
+### I'm a Data Analist / Data Scientist freelancer / PMI-CAPM :mortar_board:
 
 :fire: I am dedicating myself to data analysis, interpretation, graphs, reports, statistical models, classification models, clusters and forecasting.
 
@@ -9,11 +9,11 @@
 
 
 ## Teamwork Skills:
-  1. clear communication
-  2. responsible professional with their obligations
-  3. critical thinking
-  4. good social skills
-  5. ease of integration into teamwork
+  :man::sound::couple: clear communication
+  :iphone::hourglass_flowing_sand::mailbox:responsible professional with their obligations
+  :+1::crystal_ball::no_good: critical thinking
+  :ear::eyes::couple: good social skills
+  :two_men_holding_hands::couple::two_women_holding_hands: ease of integration into teamwork
   6. great creativity
 
 ## Tech Skills:
