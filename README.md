@@ -23,9 +23,12 @@
   5. BI tools (PowerBi, Tableau, Pentahoo)
   6. text editors
   
-![R-Studio](https://img.shields.io/badge/R_Studio-3DDC84?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)</br>
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
-![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
+![R-Studio](https://img.shields.io/badge/R_Studio-85C1E9?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)</br>
+![Python](https://img.shields.io/badge/Python-2471A3?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)</br>
+![SQL](https://img.shields.io/badge/SQL-F4D03F?style=for-the-badge&logo=SQL&logoColor=white&labelColor=101010)</br>
+![OS](https://img.shields.io/badge/Operating_System-7F8C8D?style=for-the-badge&logo=OS.&logoColor=white&labelColor=101010)</br>
+![BI-tools](https://img.shields.io/badge/BI-212F3D?style=for-the-badge&logo=BI.&logoColor=white&labelColor=101010)</br>
+![Texts-Editor](https://img.shields.io/badge/Texts_Editor-3DDC84?style=for-the-badge&logo=word&logoColor=white&labelColor=101010)</br>
   
   
 ## Find me at:
