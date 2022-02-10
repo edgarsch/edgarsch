@@ -18,7 +18,7 @@
  
 ## Tech Skills:
    
-![R-Studio](https://img.shields.io/badge/R_Studio-85C1E9?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)</br>
+[![R-Studio](https://img.shields.io/badge/R_Studio-85C1E9?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)](https://www.rstudio.com)</br>
 ![Python](https://img.shields.io/badge/Python-2471A3?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)</br>
 ![SQL](https://img.shields.io/badge/SQL-F4D03F?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)</br>
 ![OS](https://img.shields.io/badge/Operating_System-7F8C8D?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)</br>
