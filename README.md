@@ -19,11 +19,11 @@
 ## Tech Skills:
    
 [![R-Studio](https://img.shields.io/badge/R_Studio-85C1E9?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)](https://www.rstudio.com)</br>
-![Python](https://img.shields.io/badge/Python-2471A3?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)</br>
-![SQL](https://img.shields.io/badge/SQL-F4D03F?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)</br>
-![OS](https://img.shields.io/badge/Operating_System-7F8C8D?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)</br>
-![BI-tools](https://img.shields.io/badge/BI_Tools-A569BD?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=101010)</br>
-![Texts-Editor](https://img.shields.io/badge/Texts_Editor-F39C12?style=for-the-badge&logo=Microsoftword&logoColor=white&labelColor=101010)</br>
+[![Python](https://img.shields.io/badge/Python-2471A3?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)](https://www.python.org)</br>
+[![SQL](https://img.shields.io/badge/SQL-F4D03F?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)](https://es.wikipedia.org/wiki/SQL)</br>
+[![OS](https://img.shields.io/badge/Operating_System-7F8C8D?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)](https://www.wgu.edu/blog/5-most-popular-operating-systems1910.html#close)</br>
+[![BI-tools](https://img.shields.io/badge/BI_Tools-A569BD?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=101010)](https://www.datapine.com/articles/best-bi-tools-software-review-list)</br>
+[![Texts-Editor](https://img.shields.io/badge/Texts_Editor-F39C12?style=for-the-badge&logo=Microsoftword&logoColor=white&labelColor=101010)](https://www.sublimetext.com)</br>
   
   
 ## Find me at:
