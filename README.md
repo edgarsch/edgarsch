@@ -30,5 +30,5 @@
  
 [![Gmail](https://img.shields.io/badge/Gmail-E74C3C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHxGvDBJFfRZBVcmZNmCgFVjsxZKKjsXrwbsgwKKGPmSPRccVlKMPGGxgtcnzbxHDQVpwxK)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/edgar-sahonero-chacon-36945a184/)
-[![Facebook](https://img.shields.io/badge/Facebook-2980B9?style=for-the-badge&logo=faxcebook&logoColor=white&labelColor=101010)](https://www.facebook.com/edgar.sahonerochacon/)
+[![Facebook](https://img.shields.io/badge/Facebook-2980B9?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/edgar.sahonerochacon/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/SahoneroEdgar)
