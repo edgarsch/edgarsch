@@ -28,7 +28,7 @@
 ![SQL](https://img.shields.io/badge/SQL-F4D03F?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)</br>
 ![OS](https://img.shields.io/badge/Operating_System-7F8C8D?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)</br>
 ![BI-tools](https://img.shields.io/badge/BI_Tools-212F3D?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=101010)</br>
-![Texts-Editor](https://img.shields.io/badge/Texts_Editor-3DDC84?style=for-the-badge&logo=Microsoft&logoColor=white&labelColor=101010)</br>
+![Texts-Editor](https://img.shields.io/badge/Texts_Editor-3DDC84?style=for-the-badge&logo=Microsoftword&logoColor=white&labelColor=101010)</br>
   
   
 ## Find me at:
