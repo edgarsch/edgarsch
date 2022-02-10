@@ -9,20 +9,15 @@
 
 
 ## Teamwork Skills:
-  1. clear communication :man::sound::couple:
-  2. responsible professional with their obligations :iphone::hourglass_flowing_sand::mailbox:
-  3. critical thinking :+1::crystal_ball::no_good:
-  4. good social skills :ear::eyes::couple:
-  5. ease of integration into teamwork :two_men_holding_hands::couple::two_women_holding_hands:
+
+  Clear communication :man::sound::couple:
+  Responsible professional with their obligations :iphone::hourglass_flowing_sand::mailbox:
+  Critical thinking :+1::crystal_ball::no_good:
+  Good social skills :ear::eyes::couple:
+  Ease of integration into teamwork :two_men_holding_hands::couple::two_women_holding_hands:
  
 ## Tech Skills:
-  1. R/R-Studio
-  2. Python
-  3. SQL (Structured Query Language)
-  4. S.O. operating systems (open source - privative)
-  5. BI tools (PowerBi, Tableau, Pentahoo)
-  6. text editors
-  
+   
 ![R-Studio](https://img.shields.io/badge/R_Studio-85C1E9?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)</br>
 ![Python](https://img.shields.io/badge/Python-2471A3?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)</br>
 ![SQL](https://img.shields.io/badge/SQL-F4D03F?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)</br>
